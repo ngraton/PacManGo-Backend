@@ -1,1 +1,1 @@
-web: gunicorn subscription_backend.wsgi
+web: gunicorn pac-man-go-backend.wsgi
